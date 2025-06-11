@@ -45,22 +45,15 @@
 ### ✨ Featured Projects
 - 🎯 **Dollar Tree Clone** – HTML, CSS, JavaScript
 - 🌐 **Sierra Designs Clone** – Modern eCommerce UI
-- ⚙️ **Custom Shopify Sections** – Reward, Trending Now, Mega Menu Tabs
+- ⚙️ **Chumbak Clones** – React-based vibrant online store replica with dynamic UI
 
 ---
 
 ### 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURPROFILE)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/YOURPROFILE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOURPROFILE](https://www.linkedin.com/in/harish-patil-89b53a2ab/)) &nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.vercel.app/) &nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://instagram.com/YOURPROFILE](https://www.instagram.com/mr.harish_official_12/)) 
 
 ---
 
 > *“Build. Break. Learn. Repeat.”*
-
----
-
-### 🔁 Tip:
-Replace `YOUR_USERNAME`, `YOURPROFILE`, and links with your real info. You can also add a visitors badge if you like.
-
-Let me know if you'd like a [Shopify developer version](f), [animated GitHub README](f), or a [personal branding touch](f).
