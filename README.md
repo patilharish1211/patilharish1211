@@ -18,11 +18,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=flat&logo=shopify)
+![Liquid.js](https://img.shields.io/badge/-Liquid.js-F1502F?style=flat&logo=liquid)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
 
 ---
 
