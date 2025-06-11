@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Harry</h1>
+<h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Shopify + MERN Projects**
-- 🌱 I’m currently learning **Python & Shopify Liquid**
+- 🌱 I’m currently learning **Shopify Liquid**
 - 👯 I’m looking to collaborate on **Open Source and Real Projects**
 - 💬 Ask me about **React, JavaScript, Shopify, UI/UX**
-- 📫 How to reach me: **[Your email]**
+- 📫 How to reach me: **patilharish1211@gmail.com**
 - ⚡ Fun fact: *I drink code & design dreams ☕🎨*
 
 ---
