@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&width=435&lines=Full+Stack+Web+Developer.;Open+for+Frontend+Opportunity;Full+Stack+Programmer;Knowing+Basics+of+UI%2FUX" alt="Typing SVG" />
+  <img style="margin-left: 15px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&width=435&lines=Full+Stack+Web+Developer.;Open+for+Frontend+Opportunity;Full+Stack+Programmer;Knowing+Basics+of+UI%2FUX" alt="Typing SVG" />
 </p>
 
 
