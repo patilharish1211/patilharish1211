@@ -40,9 +40,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="Harry's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketshirsath&show_icons=true&theme=tokyonight" alt="Aniket's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketshirsath&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
 
 ---
 
