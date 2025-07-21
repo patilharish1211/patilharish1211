@@ -55,15 +55,15 @@
 ### ✨ Featured Projects  
 • 🎯 Dollar Tree Clone – HTML, CSS, JavaScript  
 • 🌐 Sierra Designs Clone – Modern eCommerce UI  
-• ⚙️ Chumbak Clones – React-based vibrant online store replica with dynamic UI
+• ⚙️ Chumbak Clones – React-based vibrant online store replica with dynamic UI  
 • 🌾 Agriculture Redesign – E-commerce UI revamp using HTML, CSS, Bootstrap  
 • 🛒 Nova Redesign – Clean and modern shop UI built with Bootstrap  
 • 🧳 BellRoy – JavaScript-powered online store with improved flow  
-• 🧔 Beardbrand – Full JS eCom redesign for smooth navigation
+• 🧔 Beardbrand – Full JS eCom redesign for smooth navigation  
 • 🏬 WestSide – React-based eCom UI with optimized UX  
 • 👚 Everlane – React store with sleek UI and better user journey  
 • ✅ Todo List – React app with mock backend and dynamic features  
-• 📅 Age Calculator – React tool with API support to calculate age  
+• 📅 Age Calculator – React tool with API support to calculate age   
 
 ---
 
