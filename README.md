@@ -53,6 +53,9 @@
 ---
 
 ### ✨ Featured Projects  
+• 🎯 Dollar Tree Clone – HTML, CSS, JavaScript  
+• 🌐 Sierra Designs Clone – Modern eCommerce UI  
+• ⚙️ Chumbak Clones – React-based vibrant online store replica with dynamic UI
 • 🌾 Agriculture Redesign – E-commerce UI revamp using HTML, CSS, Bootstrap  
 • 🛒 Nova Redesign – Clean and modern shop UI built with Bootstrap  
 • 🧳 BellRoy – JavaScript-powered online store with improved flow  
